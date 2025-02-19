@@ -24,8 +24,7 @@ This project analyzes **fleet fuel consumption and maintenance costs** to improv
 ✅ **Fleet Allocation Optimization:** Reassign vehicles based on efficiency scores and consider retiring high-maintenance vehicles.  
 
 ## 🛠 Tech Stack  
-- **📊 Power BI:** Data visualization and dashboard creation  
-- **🐍 Python (Pandas, Matplotlib):** Data analysis and preprocessing  
+- **📊 Power BI:** Data analysis and preprocessing, Data visualization,dashboard creation and DAX
 - **📄 Excel:** Data organization and calculations  
 
 ## 📁 Dataset  
@@ -34,14 +33,10 @@ The dataset includes:
 - **Fleet Maintenance:** Repair dates, costs, downtime, service records  
 
 ## 🚀 How to Use  
-1. Load the dataset into **Power BI** or Python for analysis.  
+1. Load the dataset into **Power BI** for analysis.  
 2. Explore **fuel and maintenance trends** in the provided dashboards.  
 3. Apply **recommendations** to optimize fleet operations and reduce costs.  
 
 ## 📢 Contact  
 For questions or collaborations, feel free to reach out!  
-**👤 Deborah Apochi** | [LinkedIn](https://www.linkedin.com/in/deborahapochi)  
-
----
-
-This README is structured to be **clear, professional, and engaging** for GitHub. Do you want me to tweak anything further? 🚀
+**👤 Deborah Apochi** | [LinkedIn](https://www.linkedin.com/in/deborahapochi)
